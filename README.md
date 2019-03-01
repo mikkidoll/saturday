@@ -1,2 +1,2 @@
 # saturday
-today practise
+today practise day
